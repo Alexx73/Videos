@@ -1,4 +1,6 @@
 {
+  "start_url": "https://github.com/Alexx73/Videos",
+  "homepage": "https://github.com/Alexx73/Videos",
   "short_name": "React App",
   "name": "Create React App Sample",
   "icons": [
@@ -18,8 +20,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://github.com/Alexx73/Videos",
-  "homepage": "https://github.com/Alexx73/Videos",
+  
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
